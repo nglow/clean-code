@@ -7,8 +7,8 @@ import java.util.List;
 public class ClearIntent {
 
     /*
-            TODO - Need value to measure & name to express unit
-             */
+    TODO - Need value to measure & name to express unit
+     */
     int elapsedTimeInDays;
     int daysSinceCreation;
     int daysSinceModification;
